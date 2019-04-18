@@ -1,6 +1,4 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
 notifications:
-  slack: aamdevops:cZ8ohIieyc8S2upLLeWNgn5E
+  slack:
+    on_success: always
+    slack: aamdevops:cZ8ohIieyc8S2upLLeWNgn5E
